@@ -1,3 +1,10 @@
+/*
+Develop C program for the following:
+    a) To perform copy operation from one file to another file.
+    b) Telephone drectory.
+    c) To count the number of account holders whose balance is less than the minimum balance.
+*/
+
 #include <stdio.h>
 #include <string.h>
 
@@ -166,7 +173,7 @@ void deleteEntry()
 
 int telephone_directory()
 {
-    FILE *file = fopen("telephone_directory.txt", "wb+");
+    FILE *file = fopen("telephone_directory.txt", "wb+"); // create a empty file with this name
     
     if (file == NULL)
     {
