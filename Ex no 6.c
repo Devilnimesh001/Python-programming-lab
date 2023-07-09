@@ -5,7 +5,7 @@ Develop C program for the following:
     c) To check whether two strings are Anagrams.
     d) String copy and Concatenation.
 */
-
+ 
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
