@@ -1,3 +1,16 @@
+/*
+Develop C program for the following...
+    a) Printing the list of sbjects
+    b) Arithmetic operations
+    c) Area and perimeter of the circle
+    d) Celsius to farenheit
+    e) Swapping two numbers
+    f) Checking leap year
+    g) Salary Calculation
+    h) Gst calculation
+*/
+
+
 #include <stdio.h>
 
 #define no_of_string 5
@@ -190,43 +203,24 @@ int main()
 {
     subject();
     printf("\n");
+    
     arithmetic();
     printf("\n");
+    
     circle();
     printf("\n");
+    
     C_to_F();
     printf("\n");
+    
     swap();
     printf("\n");
+    
     salary();
     printf("\n");
+    
     gst();
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
