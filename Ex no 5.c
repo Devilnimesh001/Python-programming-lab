@@ -4,7 +4,7 @@ Develop C program for the following:
     b) Get the input from user and sort it and implement linear search.
 */
 
-
+ 
 #include <stdio.h>
 #include <stdlib.h>
 
