@@ -2,7 +2,7 @@
 Develop C program for the following:
     a) To find the sum of numbers using pointer and arrays.
     b) To perform the sorting of names using an array of pointers.
-*/
+*/ 
 
 #include <stdio.h>
 #include <string.h>
