@@ -1,3 +1,9 @@
+/*
+Develop C program for the following:
+    a) Implement a one-dimensional array, sort all the filled elements in ascending and descending. 
+    b) Get the input from user and sort it and implement linear search.
+*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
