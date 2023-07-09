@@ -1,3 +1,11 @@
+/*
+Develop C program for the following:
+    a) To count the number of vowels and consonants in a sentence.
+    b) Palindrome checking.
+    c) To check whether two strings are Anagrams.
+    d) String copy and Concatenation.
+*/
+
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
@@ -188,3 +196,4 @@ void main()
     copycat();
     
 }
+
