@@ -1,6 +1,12 @@
+/*
+Develop C program for the following:
+    a) To generate the salary slip of employees using structure.
+    b) To compute internal marks of students using structure.
+    c) To illustrate the programs for nested structure.
+*/
+
 #include <stdio.h>
 #include <string.h>
-#include <math.h>
 
 //salary slip
 
@@ -10,14 +16,7 @@ struct employee
     int emp_id,b_sal;
     float gross,net;
 };
-void space(int len)
-{
-    char c = ' ';
-    for (int i = 0; i < len; i++)
-    {
-        printf("%c",c);
-    }
-}
+
 void display( struct employee emp[10], int n)
 {
     int i, len = n;
