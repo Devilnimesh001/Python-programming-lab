@@ -4,7 +4,7 @@ Develop C program for the following:
     b) Telephone drectory.
     c) To count the number of account holders whose balance is less than the minimum balance.
 */
-
+ 
 #include <stdio.h>
 #include <string.h>
 
