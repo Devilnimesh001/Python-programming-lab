@@ -4,7 +4,7 @@ Develop C program for the following:
     b) Checking Voting eligibility.
     c) Area of different shapes.
     d) Get student five subject mark and calculate grade.
-*/
+*/ 
 
  
 #include <stdio.h>
