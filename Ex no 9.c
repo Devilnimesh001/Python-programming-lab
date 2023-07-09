@@ -4,7 +4,7 @@ Develop C program for the following:
     b) To compute internal marks of students using structure.
     c) To illustrate the programs for nested structure.
 */
-
+  
 #include <stdio.h>
 #include <string.h>
 
