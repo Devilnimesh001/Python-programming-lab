@@ -5,7 +5,7 @@ Develop C program for the following:
     c) Matrix Scaling and transpose.
     d) Body mass index.
 */
-
+ 
 #include <stdio.h>
 #include <math.h>
 #include <ctype.h>
