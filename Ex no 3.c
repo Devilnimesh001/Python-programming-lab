@@ -1,4 +1,12 @@
-// problem 1
+/*
+Develop C program for the following:
+    a) Get input from the user, find the last digit, and identify whether the digit is Odd or Even.
+    b) Checking Voting eligibility.
+    c) Area of different shapes.
+    d) Get student five subject mark and calculate grade.
+*/
+
+
 #include <stdio.h>
 #include <math.h>
 
