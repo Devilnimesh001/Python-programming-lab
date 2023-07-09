@@ -6,7 +6,7 @@ Develop C program for the following:
     d) Get student five subject mark and calculate grade.
 */
 
-
+ 
 #include<stdio.h>
 
 void ODD_EVEN()
