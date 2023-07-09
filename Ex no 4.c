@@ -1,3 +1,10 @@
+/*
+Develop C program for the following:
+    a) Find the Odd and Even elements in the array.
+    b) Average height of the persons.
+    c) Matrix Scaling and transpose.
+    d) Body mass index.
+*/
 
 #include <stdio.h>
 #include <math.h>
